@@ -1,0 +1,33 @@
+ ssh-keygen -t ed25519 -C "blessingmanhique@gmail.com"
+    2  ls -la
+    3  cd .ssh
+    4  ls
+    5  cat id_ed25519.pub
+    6  git -T git@guthub.com
+    7  cd ~
+    8  git -T git@guthub.com
+    9  ssh -T git@guthub.com
+   10  ssh -T git@guthub.com
+   11  ssh -T git@github.com
+   12  winget install --id GitHub.cli
+   13  gh auth status
+   14  gh auth login
+   15  git clone git@github.com:blessingmanhique12/student_sub_system.git
+   16* cd git@github.com:blessingmanhique12/student_sub_system
+   17  cd git@github.com:blessingmanhique12/student_sub_system
+   18  git pull
+   19  git push
+   20  git clone git@github.com:blessingmanhique12/student_sub_system.git
+   21  cd .ssh
+   22  git add .
+   23  git commit -m "added an ssh-key"
+   24  git push
+   25  git push origin main
+   26  git clone git@github.com:blessingmanhique12/student_sub_system.git
+   27  cd student_sub_system
+   28  ls
+   29  history
+   30  git add history.txt
+   31  git commit -m "Added history inside the history file"
+   32  git push
+   33  history
