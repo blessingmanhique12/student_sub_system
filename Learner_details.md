@@ -8,9 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Student / ID Number** | [Your Student ID] |
-| **Date** | [DD Month YYYY] |
+| **Student Name** | [Blessing Nkosiphile Manhique] |
+| **Student / ID Number** | [0610120136086] |
+| **Date** | [12 October 2006] |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
 | **Assessor Signature** | [To be completed by assessor] |
