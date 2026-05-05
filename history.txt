@@ -1,0 +1,19 @@
+ history
+    1  git clone https://github.com/blessingmanhique12/student_sub_system.git
+    2  ssh-keygen -t ed25519 -C "blessingmanhique@gmail.com"
+    3  ls -la
+    4  cd .ssh
+    5  ls
+    6  cat id_ed25519.pub
+    7  ssh -T git@github.com
+    8  cd ..
+    9  git clone git@github.com:blessingmanhique12/student_sub_system.git
+   10  cd student_sub_system
+   11  code .
+   12  touch index.html
+   13  touch about.html
+   14  touch history.txt
+   15  git add .
+   16  git comiit -m "Add the index.html about.html history.txt"
+   17  git commit -m "Add the index.html about.html history.txt"
+   18  history
