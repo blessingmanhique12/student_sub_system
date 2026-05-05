@@ -8,7 +8,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Blessijng Nkosiphile Manhique] |
+| **Student Name** | [Blessing Nkosiphile Manhique] |
 | **Student / ID Number** | [0610120136086] |
 | **Date** | [12 October 2006] |
 | **Assessor** | [Assessor's Name] |
